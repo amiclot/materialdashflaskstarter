@@ -8666,12 +8666,12 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #2196f3 !important;
+  color: #3C4858 !important;
 }
 
 a.text-primary:hover,
 a.text-primary:focus {
-  color: #0c7cd5 !important;
+  color: #0d6eba !important;
 }
 
 .text-secondary {
@@ -13755,7 +13755,7 @@ h2.title {
 }
 
 .text-primary {
-  color: #9c27b0 !important;
+  color: #3C4858 !important;
 }
 
 .text-danger {
@@ -14772,9 +14772,9 @@ fieldset[disabled] .form-group.is-focused .togglebutton label {
   color: #fff;
 }
 
-.sidebar[data-color="purple"] li.active>a {
-  background-color: #9c27b0;
-  box-shadow: 0 4px 20px 0px rgba(0, 0, 0, 0.14), 0 7px 10px -5px rgba(156, 39, 176, 0.4);
+.sidebar[data-color="blue"] li.active>a {
+  background-color: #074c82;
+  box-shadow: 0 4px 20px 0px;
 }
 
 .sidebar[data-color="azure"] li.active>a {
@@ -16795,7 +16795,7 @@ label {
 .card.bg-success,
 .card.card-rotate.bg-success .front,
 .card.card-rotate.bg-success .back {
-  background: linear-gradient(60deg, #66bb6a, #43a047);
+  background: linear-gradient(60deg, #074c82, #279AFD);
 }
 
 .card .card-header-warning .card-icon,
